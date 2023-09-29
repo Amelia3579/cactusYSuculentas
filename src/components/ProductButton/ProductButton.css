@@ -1,0 +1,18 @@
+.product-button {
+    border: none;
+    border: 10px;
+    border-radius: 10px;
+    color: rgb(17, 17, 17);
+    background-color: rgb(139, 247, 139);
+    font-size: 1rem;
+    padding: 0.6rem;
+    margin: .4rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.product-button:hover {
+    color: #fafafa;
+    background-color: rgb(102, 165, 102);
+}
+
